@@ -8,15 +8,23 @@
 🔹 <strong>Pasión:</strong> Me encanta el código 💻 y el desarrollo de soluciones con <strong>IoT</strong> 🌐🔧  
 
 ## 🛠️ Experiencia  
+
 💾 Comencé como <strong>técnico en informática</strong>, realizando:  
+
 <img alt="Night Coding" src="https://my-portfolio-jet-five-45.vercel.app/_next/image?url=%2Ficons%2FavatarFinal.png&w=828&q=75" align="right" width="300" height="300" style="border-radius: 50%; margin-left: 15px;"/>
-✅ Mantenimiento y soporte técnico
-    
- 🔹 Hace <strong>2 años</strong>, tras realizar un curso militar, tuve la oportunidad de trabajar como <strong>desarrollador</strong> dentro de la empresa (Fuerza Aérea Uruguaya 🛩️) ✨.
-✅ 📂 Desarrollo de una aplicación de escritorio para gestionar el <strong>envío de recibos de sueldo</strong> por correo.
-✅ 🌐 Migración de la aplicación a una <strong>versión web</strong> accesible para todo el personal, la cual además gestiona la <strong>historia laboral</strong> del personal que se envía al BPS.
-✅ 🛠️ Creación de un <strong>sistema de tickets</strong> para mejorar la organización del soporte técnico.
-✅ 💾 Implementación de un <strong>control de computadoras e inventario</strong> de herramientas e insumos.
+
+✅ Mantenimiento y soporte técnico  
+
+🔹 Hace <strong>2 años</strong>, tras realizar un curso militar, tuve la oportunidad de trabajar como <strong>desarrollador</strong> dentro de la empresa (Fuerza Aérea Uruguaya 🛩️) ✨.  
+
+✅ 📂 Desarrollo de una aplicación de escritorio para gestionar el <strong>envío de recibos de sueldo</strong> por correo.  
+
+✅ 🌐 Migración de la aplicación a una <strong>versión web</strong> accesible para todo el personal, la cual además gestiona la <strong>historia laboral</strong> del personal que se envía al BPS.  
+
+✅ 🛠️ Creación de un <strong>sistema de tickets</strong> para mejorar la organización del soporte técnico.  
+
+✅ 💾 Implementación de un <strong>control de computadoras e inventario</strong> de herramientas e insumos.  
+
 
 ---
 
