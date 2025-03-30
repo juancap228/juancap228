@@ -10,18 +10,13 @@
 ## 🛠️ Experiencia  
 💾 Comencé como <strong>técnico en informática</strong>, realizando:  
 <img alt="Night Coding" src="https://my-portfolio-jet-five-45.vercel.app/_next/image?url=%2Ficons%2FavatarFinal.png&w=828&q=75" align="right" width="300" height="300" style="border-radius: 50%; margin-left: 15px;"/>
-    <h2>✅ Mantenimiento y soporte técnico</h2>
+ ✅ Mantenimiento y soporte técnico
     
-    <p>
-        🔹 Hace <strong>2 años</strong>, luego de realizar un curso militar, se me abrió la oportunidad de trabajar como <strong>desarrollador</strong> dentro de la empresa (Fuerza Aérea Uruguaya 🛩️) ✨.
-    </p>
-    
-    <ul>
-        <li>✅ 📂 Desarrollo de una aplicación de escritorio para gestionar el <strong>envío de recibos de sueldo</strong> por correo.</li>
-        <li>✅ 🌐 Migración de la aplicación a una <strong>versión web</strong> accesible para todo el personal, la cual además gestiona la <strong>historia laboral</strong> del personal que se envía al BPS.</li>
-        <li>✅ 🛠️ Creación de un <strong>sistema de tickets</strong> para mejorar la organización del soporte técnico.</li>
-        <li>✅ 💾 Implementación de un <strong>control de computadoras e inventario</strong> de herramientas e insumos.</li>
-    </ul>
+   🔹 Hace <strong>2 años</strong>, tras realizar un curso militar, tuve la oportunidad de trabajar como <strong>desarrollador</strong> dentro de la empresa (Fuerza Aérea Uruguaya 🛩️) ✨.
+✅ 📂 Desarrollo de una aplicación de escritorio para gestionar el <strong>envío de recibos de sueldo</strong> por correo.
+✅ 🌐 Migración de la aplicación a una <strong>versión web</strong> accesible para todo el personal, la cual además gestiona la <strong>historia laboral</strong> del personal que se envía al BPS.
+✅ 🛠️ Creación de un <strong>sistema de tickets</strong> para mejorar la organización del soporte técnico.
+✅ 💾 Implementación de un <strong>control de computadoras e inventario</strong> de herramientas e insumos.
 
 ---
 
