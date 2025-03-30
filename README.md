@@ -17,7 +17,7 @@
 
 🔹 Hace <strong>2 años</strong>, tras realizar un curso militar, tuve la oportunidad de trabajar como <strong>desarrollador</strong> dentro de la empresa (Fuerza Aérea Uruguaya 🛩️) ✨.  
 
-✅ 📂 Desarrollo de una aplicación de escritorio para gestionar el <strong>envío de recibos de sueldo</strong> por correo.  
+✅ 📂 Desarrollo de una aplicación de escritorio para gestionar el <strong>envío de recibos de sueldo</strong> por correo al personal.  
 
 ✅ 🌐 Migración de la aplicación a una <strong>versión web</strong> accesible para todo el personal, la cual además gestiona la <strong>historia laboral</strong> del personal que se envía al BPS.  
 
